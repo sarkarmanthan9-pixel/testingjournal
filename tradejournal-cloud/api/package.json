@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "kiteconnect": "^4.0.5",
+    "axios": "^1.6.0"
+  }
+}
